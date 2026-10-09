@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>EDF6WeaponUnlocker.UiSmokeTest</AssemblyName>
+    <RootNamespace>EDF6WeaponUnlocker.UiSmokeTest</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\EDF6LocationSync.Settings\EDF6LocationSync.Settings.csproj" />
+    <ProjectReference Include="..\..\src\EDF6WeaponUnlocker\EDF6WeaponUnlocker.csproj" />
+  </ItemGroup>
+</Project>

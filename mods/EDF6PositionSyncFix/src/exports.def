@@ -1,0 +1,3 @@
+LIBRARY "EDF6PositionSyncFix"
+EXPORTS
+    EML6_Load

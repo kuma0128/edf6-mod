@@ -1,0 +1,15 @@
+**/bin/
+**/obj/
+**/build/
+artifacts/
+.vs/
+*.user
+*.suo
+*.log
+
+# Never commit real EDF6 saves or generated backups.
+*.GST
+*.CFG
+*.DAT
+*.MST
+EDF6WeaponUnlocker_Backups/
